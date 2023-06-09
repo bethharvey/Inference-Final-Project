@@ -9,9 +9,7 @@ I originally completed this program in October of 2022. I redid most of the proj
 Raw Data: Activities.csv
 
 Original Code: Inference Final Project.ipynb
-
 Updated Code: Running Data Analysis Project.ipynb
 
 Original Presentation: Running Data Analysis.pptx
-
 Updated Presentation: Beth_Harvey_presentation.pptx
